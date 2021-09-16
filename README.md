@@ -1,5 +1,5 @@
 # VIA CEP CONSUMER
-##Aplicação que consome API da VIACEP por meio de OpenFeign
+## Aplicação que consome API da VIACEP por meio de OpenFeign
 
 ###TECNOLOGIAS UTILIZADAS
 -JAVA
